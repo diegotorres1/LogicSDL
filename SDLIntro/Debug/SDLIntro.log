@@ -1,0 +1,67 @@
+﻿  SDL_Teest.cpp
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(124): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(125): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(215): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(216): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(217): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(218): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(219): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(220): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(264): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(265): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(269): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(270): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(274): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(275): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(284): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(285): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(289): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(290): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(294): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(295): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(320): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(321): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(325): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(326): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(330): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(331): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(340): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(341): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(345): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(346): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(350): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(351): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(378): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(379): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(383): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(384): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(388): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(389): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(398): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(399): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(403): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(404): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(408): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(409): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(433): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(434): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(438): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(439): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(443): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(444): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(453): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(454): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(458): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(459): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(463): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(464): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(525): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(525): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(526): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(526): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(527): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(527): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(695): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(699): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\administrator\desktop\open gl\sdlintro\sdlintro\sdl_teest.cpp(616): warning C4101: 'mouse_position': unreferenced local variable
+  SDLIntro.vcxproj -> C:\Users\Administrator\Desktop\Open Gl\SDLIntro\Debug\SDLIntro.exe
